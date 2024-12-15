@@ -54,5 +54,6 @@ Applications
 Accessibility tool for users with limited mobility.
 Contactless control systems for hygiene-sensitive environments.
 Educational and interactive demonstrations of computer vision.
+
 Support
 If you encounter any issues or have questions, feel free to reach out via email at nithinm089@gmail.com
