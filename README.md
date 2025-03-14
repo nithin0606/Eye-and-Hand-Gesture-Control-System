@@ -1,4 +1,5 @@
-# Eye-and-Hand-Gesture-Control-System
+# Virtual Mouse
+
 
 This project combines computer vision and machine learning to implement an interactive system that allows users to control a virtual mouse using eye-tracking and hand gestures. The system leverages Mediapipe for landmark detection and PyAutoGUI for cursor control, providing a seamless, touch-free interaction experience.
 
